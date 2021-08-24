@@ -87,6 +87,7 @@
   height: 35px;
   top: 0;
   left: 0;
+  position: static;
 }
 .content {
   display: flex;
@@ -327,12 +328,6 @@
 }
 .footer__column_content_info, .footer__column_content_social {
   justify-content: flex-start;
-}
-.logo_place_footer {
-  width: 183px;
-  height: 35px;
-  background-image: url(../images/logo_place_footer.svg);
-  position: static;
 }
 .footer__social-icon {
   width: 16px;
