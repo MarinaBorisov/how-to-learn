@@ -56,10 +56,6 @@
   right: 0;
   z-index: -10;
 }
-.header__image {
-  width: 100%;
-  height: 100%;
-}
 .header__square-pic {
   height: 568px;
   width: 568px;
@@ -333,12 +329,12 @@
   background-repeat: no-repeat;
   vertical-align: middle;
 }
-.footer__social-icon-icon-fb {
+.footer__social-icon_icon_fb {
   background-image: url(../images/facebook_color_white.svg);
 }
-.footer__social-icon-icon-vk {
+.footer__social-icon_icon_vk {
   background-image: url(../images/vk_color_white.svg);
 }
-.footer__social-icon-icon-ig {
+.footer__social-icon_icon_ig {
   background-image: url(../images/instagram_color_white.svg);
 }
