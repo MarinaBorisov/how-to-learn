@@ -52,8 +52,6 @@
 @import url(../blocks/footer/__social-icon/_icon/footer__social-icon_icon_vk.css);
 @import url(../blocks/footer/__social-icon/_icon/footer__social-icon_icon_ig.css);
 @import url(../blocks/rotation/rotation.css);
-@import url(../blocks/rotation/_place/rotation_place_square-pic.css);
-@import url(../blocks/rotation/_place/rotation_place_triangle.css);
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__item/cards__item.css);
