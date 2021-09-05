@@ -3,6 +3,7 @@
   line-height: 42px;
   font-size: 30px;
   font-weight: normal;
+  text-decoration: none;
   opacity: 1;
   transition: opacity 0.5s ease;
 }
