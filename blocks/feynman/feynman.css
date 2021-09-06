@@ -3,6 +3,7 @@
   min-height: 890px;
   position: relative;
 }
+
 .feynman::before {
   content: '';
   width: 100%;
