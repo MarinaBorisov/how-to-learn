@@ -2,6 +2,7 @@
   width: 100%;
   min-height: 890px;
   position: relative;
+  top: -50px;
 }
 
 .feynman::before {
